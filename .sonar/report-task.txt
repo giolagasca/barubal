@@ -1,0 +1,5 @@
+projectKey=BARSTight
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/BARSTight
+ceTaskId=AWfEa_akn_2Q4fZIdjN0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfEa_akn_2Q4fZIdjN0
